@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet-Framework-Google-Identity", "DotNet-Framework-Google-Identity\DotNet-Framework-Google-Identity.csproj", "{5E1E0CD5-289F-41DE-B42A-ED908E1E3003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E1E0CD5-289F-41DE-B42A-ED908E1E3003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1E0CD5-289F-41DE-B42A-ED908E1E3003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1E0CD5-289F-41DE-B42A-ED908E1E3003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1E0CD5-289F-41DE-B42A-ED908E1E3003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB79055-F100-4F35-BC66-A510E2FA850E}
+	EndGlobalSection
+EndGlobal
