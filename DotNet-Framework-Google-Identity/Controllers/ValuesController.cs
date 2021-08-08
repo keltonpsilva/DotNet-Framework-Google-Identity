@@ -16,6 +16,7 @@ namespace DotNet_Framework_Google_Identity.Controllers
         }
 
         // GET api/values/5
+        [Authorize]
         public string Get(int id)
         {
             return "value";
